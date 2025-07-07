@@ -24,7 +24,3 @@ Follow the steps below to run the project end-to-end:
      ```bash
      streamlit run app.py
      ```
-
----
-
-### 📂 Folder Structure (Recommended)
