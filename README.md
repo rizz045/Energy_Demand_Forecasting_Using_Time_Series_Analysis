@@ -24,3 +24,13 @@ Follow the steps below to run the project end-to-end:
      ```bash
      streamlit run app.py
      ```
+
+---
+
+## 📸 Output Samples
+
+### 🔹 Forecast Visualization - Part 1
+![Forecast Output Part 1](images/OutPut_Part_1.png)
+
+### 🔹 Forecast Visualization - Part 2
+![Forecast Output Part 2](images/OutPut_Part_2.png)
