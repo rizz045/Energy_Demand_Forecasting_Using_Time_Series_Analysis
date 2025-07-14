@@ -11,7 +11,7 @@ Follow the steps below to run the project end-to-end:
    - Open and execute the notebook file (`.ipynb`) to train the model.
 
 3. **Save the Trained Model**
-   - At the end of the notebook, download/save the trained model file (e.g., `model.h5`) into the **same folder** as `app.py`.
+   - At the end of the notebook, save the trained model (e.g., `model.h5`) into the **same folder** as `app.py`.
 
 4. **Set Up the Environment**
    - Install required dependencies using the `requirements.txt` file:
@@ -29,13 +29,20 @@ Follow the steps below to run the project end-to-end:
 
 ## 📸 Output Samples
 
-### 🔹 Forecast Visualization - Part 1
+### 🔹 Forecast Visualization – Part 1  
 ![Forecast Output Part 1](images/OutPut_Part_1.png)
 
-### 🔹 Forecast Visualization - Part 2
+### 🔹 Forecast Visualization – Part 2  
 ![Forecast Output Part 2](images/OutPut_Part_2.png)
 
-## 📸 Output Demo
+---
+
+## 🎥 Demo Video
 
 ### 🔹 Forecast Application Demo
-![Demo Video](images/Project Forecasting Demo Video.mp4)
+
+[![Watch the Demo](images/OutPut_Part_1.png)](images/Project%20Forecasting%20Demo%20Video.mp4)  
+▶️ **Click the image or [this link](images/Project%20Forecasting%20Demo%20Video.mp4) to watch the video demo**
+
+---
+
