@@ -34,3 +34,8 @@ Follow the steps below to run the project end-to-end:
 
 ### 🔹 Forecast Visualization - Part 2
 ![Forecast Output Part 2](images/OutPut_Part_2.png)
+
+## 📸 Output Demo
+
+### 🔹 Forecast Application Demo
+![Demo Video](images/Project Forecasting Demo Video.mp4)
